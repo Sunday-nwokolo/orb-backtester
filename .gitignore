@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Conda/pip
+*.egg-info/
+dist/
+build/
+
+# Output files (optional - remove these lines if you want to track charts/logs)
+*.png
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
